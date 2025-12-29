@@ -32,6 +32,4 @@ Aspiring Software / Full-Stack Developer with hands-on experience building web a
 
 ---
 
-⭐ Feel free to explore my repositories and projects!
 
-👉 **GitHub:** [github.com/dsfasdw](https://github.com/dsfasdw)
