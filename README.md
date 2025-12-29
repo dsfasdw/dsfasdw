@@ -4,24 +4,19 @@ Aspiring Software / Full-Stack Developer with hands-on experience building web a
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Technical Skills
 
-### 💻 Programming & Frameworks
-- **Node.js** – Backend development, REST APIs
-- **React.js** – Frontend development
-- **TypeScript** – Type-safe JavaScript for scalable applications
-- **JavaScript (ES6+)**
-- **HTML5 & CSS3** – Markup, styling, responsive design
+### 💻 Languages
+PHP, JavaScript, TypeScript, C, SQL, HTML, CSS
+
+### ⚡ Frameworks
+Laravel, React, Node.js
 
 ### 🗄️ Databases
-- **MySQL**
-- **SQL** (queries, joins, basic optimization)
+MySQL, MariaDB, PostgreSQL
 
-### 🔧 Tools & Others
-- Git & GitHub
-- REST API integration
-- Basic authentication & CRUD operations
-- Debugging & testing
+### 🛠️ Tools
+Git, VS Code, Postman, AWS S3, TailwindCSS
 
 ---
 
