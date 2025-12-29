@@ -11,6 +11,7 @@ Aspiring Software / Full-Stack Developer with hands-on experience building web a
 - **React.js** – Frontend development
 - **TypeScript** – Type-safe JavaScript for scalable applications
 - **JavaScript (ES6+)**
+- **HTML5 & CSS3** – Markup, styling, responsive design
 
 ### 🗄️ Databases
 - **MySQL**
@@ -20,16 +21,7 @@ Aspiring Software / Full-Stack Developer with hands-on experience building web a
 - Git & GitHub
 - REST API integration
 - Basic authentication & CRUD operations
-
----
-
-## 📌 Projects
-Here are some projects I’ve worked on (check my repositories 👇):
-- Full-stack web applications
-- Backend APIs
-- Academic and personal projects
-
-👉 **GitHub:** https://github.com/dsfasdw
+- Debugging & testing
 
 ---
 
@@ -41,3 +33,5 @@ Here are some projects I’ve worked on (check my repositories 👇):
 ---
 
 ⭐ Feel free to explore my repositories and projects!
+
+👉 **GitHub:** [github.com/dsfasdw](https://github.com/dsfasdw)
