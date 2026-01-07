@@ -1,6 +1,6 @@
 # 👋 Hi, I'm James Marwin Bolongon
 
-Aspiring Software / Full-Stack Developer with hands-on experience building web applications using modern JavaScript technologies. I enjoy learning by building projects and solving real-world problems.
+ Full-Stack Developer with hands-on experience building web applications using modern JavaScript technologies. I enjoy learning by building projects and solving real-world problems.
 
 ---
 
