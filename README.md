@@ -6,7 +6,7 @@
 # James Marwin Bolongon - Portfolio
 
 Hi! I’m **James Marwin Bolongon**, a Full-Stack Developer specializing in modern web technologies.  
-You can view my **live portfolio here**: [My Portfolio](https://portfolio-1-ebon-gamma.vercel.app/)
+You can view my **live portfolio here**: [My Portfolio](https://portfolio-five-flax-93.vercel.app/)
 ## 🛠️ Technical Skills
 
 ### 💻 Languages
